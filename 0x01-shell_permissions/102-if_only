@@ -1,2 +1,2 @@
 #!/bin/bash
-find _/hello type f -user guillaume -exec chown betty {} +
+find _/hello -type f -user guillaume -exec chown betty {} +
